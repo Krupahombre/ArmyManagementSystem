@@ -1,3 +1,3 @@
 # ArmyManagementSystem
 
-Implementation of simple database in SQL using PostgreSQL and DBeaver. 
+Implementation of simple database using PostgreSQL and DBeaver. 
